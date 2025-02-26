@@ -1,4 +1,4 @@
-# Algorithmic Accountability in Small Data: Sample-Size-Induced Bias in Classification Metrics
+# Algorithmic Accountability in Small Data: Sample-Size-Induced Bias Within Classification Metrics
 
 ### Jarren Briscoe, Garrett Kepler, Daryl Deford, and Assefaw Gebremedhin
 
