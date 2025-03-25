@@ -19,7 +19,7 @@ To replicate the results from this paper, please ensure you are using Python 3.1
     ```bash
     python main.py
     ```
-- If you encounter any issues during installation, a `pip_freeze.txt` file is available, which lists exact package versions. To use these, set up a clean Python 3.11 virtual environment in Windows 11 and run:
+- If you encounter any issues during installation, a `pip_freeze.txt` file is available, which lists exact package versions. To use these, set up a clean Python 3.11 virtual environment in **Windows 11** and run:
     ```bash
     pip install -r pip_freeze.txt
     ```
