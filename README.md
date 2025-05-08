@@ -2,7 +2,7 @@
 
 ### Jarren Briscoe, Garrett Kepler, Daryl Deford, and Assefaw Gebremedhin
 
-Our paper is published in AISTATS 2025: [https://proceedings.mlr.press/v258/briscoe25a.html](https://proceedings.mlr.press/v258/briscoe25a.html).
+Please see our paper in AISTATS 2025: [https://proceedings.mlr.press/v258/briscoe25a.html](https://proceedings.mlr.press/v258/briscoe25a.html).
 
 
 ## Abstract
@@ -30,7 +30,7 @@ To replicate the results from this paper, please ensure you are using Python 3.1
 ### APA
 Briscoe, J., Kepler, G., DeFord, D. R., & Gebremedhin, A. (2025, April). Algorithmic Accountability in Small Data: Sample-Size-Induced Bias Within Classification Metrics. In International Conference on Artificial Intelligence and Statistics (pp. 4915-4923). PMLR.
 
-### BibTex
+### BibTeX
 ```bibtex
 @inproceedings{briscoe2025algorithmic,
   title={Algorithmic Accountability in Small Data: Sample-Size-Induced Bias Within Classification Metrics},
